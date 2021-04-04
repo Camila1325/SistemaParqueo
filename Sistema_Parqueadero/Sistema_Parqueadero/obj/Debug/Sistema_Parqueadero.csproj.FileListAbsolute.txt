@@ -1,0 +1,22 @@
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.exe.config
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.exe
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.pdb
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csprojAssemblyReference.cache
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.Form1.resources
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.FormularioParqueadero.resources
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.Properties.Resources.resources
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csproj.GenerateResource.cache
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.exe
+C:\Users\CAMILA TORO\source\repos\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.pdb
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.exe.config
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.exe
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\bin\Debug\Sistema_Parqueadero.pdb
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csprojAssemblyReference.cache
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.Form1.resources
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.FormularioParqueadero.resources
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.Properties.Resources.resources
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csproj.GenerateResource.cache
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.exe
+C:\Users\CAMILA TORO\Desktop\Trabajos C#\Sistema_Parqueadero\Sistema_Parqueadero\obj\Debug\Sistema_Parqueadero.pdb
